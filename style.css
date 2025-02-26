@@ -200,9 +200,9 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url('mozammel1.jpg');
+	background-image: url('mozammel1.png');
 	background-size: cover;
-	background-position: mid center;
+	background-position: top center;
 	position: relative;
 	z-index: 1;
 }
